@@ -1,7 +1,9 @@
 <!-- Profile Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dhiraj007301/Dhiraj007301/main/assets/banner.png" alt="Dhiraj Patil Banner" width="100%" />
-</p>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Dhiraj%20Patil%20&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+</div>
 
 <!-- Typing Effect -->
 <p align="center">
