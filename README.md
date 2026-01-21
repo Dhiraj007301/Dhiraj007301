@@ -31,11 +31,15 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,arduino,python&perline=4&theme=dark" />
 </div>
 
+<div align="center">
+  
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![RTOS](https://img.shields.io/badge/RTOS-000000?style=for-the-badge&logo=freebsd&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+
+</div>
 
 
 ---
