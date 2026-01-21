@@ -46,15 +46,18 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhiraj007301&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhiraj007301&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhiraj007301&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dhiraj007301&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_title=true" width="100%"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhiraj007301&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_title=true" width="100%"/>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
