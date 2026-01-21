@@ -28,7 +28,7 @@
 ## 🛠️ Skills & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,python&perline=4&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino&perline=4&theme=dark" />
 </div>
 
 <div align="center">
