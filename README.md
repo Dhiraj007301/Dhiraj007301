@@ -63,3 +63,10 @@
 
 ## 🙌 Thanks for Visiting
 ⭐ Star this repo if you like my profile — let’s connect and collaborate on exciting projects!
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+
+</div>
