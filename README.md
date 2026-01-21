@@ -4,6 +4,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Dhiraj%20Patil%20&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 </div>
+<a href="https://www.linkedin.com/in/dhiraj-patil07"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:dirajpatik777@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 <!-- Typing Effect -->
 <p align="center">
